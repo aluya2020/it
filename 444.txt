@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD.th" tvg-name="PPTV HD" tvg-logo="https://dl.dropbox.com/s/zafkq553lvt0b0d/pptv.png?dl=0" group-title="FREETV",PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://r3-sn-5fo-c37ed9.googleuservideo.com/heng99_bet1/trueepl1_480p/chunks.m3u8?nimblesessionid=1407084&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjMgMTI6MzM6MTkgUE0maGFzaF92YWx1ZT00WmJEU256U1NVeG1PQU5scXhFRWdRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9MTgxMTMxhttps://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
